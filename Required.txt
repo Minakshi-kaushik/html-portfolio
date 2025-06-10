@@ -1,0 +1,72 @@
+1. nav bar- home ->  skills and projects ->education->  hobbies-> contact me
+color-
+
+2. Home Page- image with text "   "
+   brief introduction "  Hi, I’m Minakshi Kaushik.  I’m a first-year B.Tech student at IGDTUW, specializing in Artificial Intelligence and Machine Learning. Passionate about creating responsive, user-friendly web interfaces and analyzing data to uncover insights. I enjoy building meaningful digital experiences and continuously learning new tools and technologies.
+
+   "
+   colour
+
+3. Skills and projects- 
+   technical-
+   > Front-End Development:
+
+    HTML5, CSS3, JavaScript
+
+    Responsive Web Design
+
+    Bootstrap 
+
+    Git & GitHub
+
+
+>Data Analysis:
+
+Python (Pandas, NumPy)
+
+Data Cleaning & Preprocessing
+
+Data Visualization (Matplotlib, Seaborn, or Tableau)
+
+Basic Statistical Analysis
+
+
+
+>Soft skills
+
+Problem-Solving
+
+Attention to Detail
+
+Communication Skills
+
+Willingness to Learn
+
+>Languages-
+English 
+Hindi 
+Chinese(pinyin)
+
+
+
+4.Education-
+10th cbse 2021 97%
+12th cbse 2023 97.8%
+college 1st year 9.695 SGPA
+
+5. Hobbies-
+ To do sketching
+ To cook 
+ Gather Knowledge
+
+6. Contact me-
+   email- minakshikaushik22122005@gmail.com
+   LinkedIn- https://www.linkedin.com/in/minakshi-kaushik-491487327?
+
+
+
+
+
+
+
+

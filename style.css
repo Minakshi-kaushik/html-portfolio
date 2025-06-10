@@ -1,0 +1,143 @@
+#navbar{
+    background-color:  black ;
+    color:white;
+}
+body {
+  background-color: black;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.container1 {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.List {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.List li {
+  margin: 5px 0;
+}
+
+p {
+  font-family: 'Orbitron', sans-serif;
+}
+
+.profile-pic {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+}
+
+.intro {
+  background: linear-gradient(to bottom, #f4e8e7, #ffffff);
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.ds-img {
+  width: 100px;
+}
+
+.ss-img {
+  width: 100px;
+}
+
+.lang-img {
+  width: 150px;
+}
+#skillsnproject{
+ background: linear-gradient(to bottom, #f4e8e7, #ffffff);
+}
+
+#ed{ 
+  background: linear-gradient(to bottom, #f4e8e7, #ffffff);
+}
+.edu-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px ;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.edu-table th,
+.edu-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+.edu-table th {
+  background-color: #66bfbf;
+  color: white;
+}
+
+#hobbies{
+  background: linear-gradient(to bottom, #f4e8e7, #ffffff);
+}
+
+
+h3{
+   color: #66bfbf;
+}
+.row{
+  margin:30px;
+  padding:20px
+}
+
+.btn-primary {
+  background-color: #66bfbf !important;
+  border-color: #66bfbf !important;
+  color: white !important;
+}
+
+.btn-outline-secondary {
+  color: White !important;
+  border-color:  #f9f9f9 !important;
+  background-color:#cd9999!important;
+}
+
+.btn-outline-secondary:hover {
+  background-color: #66bfbf !important;
+  color: white !important;
+}
+#contactme{
+  background: linear-gradient(to bottom, #f4e8e7, #ffffff);}
+
+
+  .site-footer {
+  background-color:#cd9999;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 16px;
+  font-family: 'Segoe UI', sans-serif;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
